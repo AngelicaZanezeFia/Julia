@@ -1,5 +1,7 @@
 # Pêndulo Físico
 
+![Badge Finalizado](http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge)
+
 Trabalho desenvolvido durante a disciplina "Métodos Computacionais da Física" durante o meu doutorado em Física realizado no Instituto Tecnológico de Aeronáutica.
 
 Qualquer corpo rígido que move-se livremente em torno de um eixo fixo que o transpassa é dito ser um pêndulo físico. Geralmente considera-se tal sistema submetido a um campo de forças constante, tal como aquele produzido pelo campo gravitacional nas proximidades da superfície terrestre.
